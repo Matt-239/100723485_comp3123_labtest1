@@ -1,0 +1,12 @@
+{
+  "name": "100723485_comp3123_labtest1",
+  "version": "1.0.0",
+  "description": "Repo for lab test 1 in 3123",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
