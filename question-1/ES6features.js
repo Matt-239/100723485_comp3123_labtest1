@@ -10,3 +10,7 @@ const lowerCaseWords = (arr) => {
         }
     });
 }
+
+lowerCaseWords(mixedArray)
+    .then(result => console.log(result))
+    .catch(error => console.log(error));
